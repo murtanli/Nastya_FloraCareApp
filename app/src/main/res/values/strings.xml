@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FloraCareApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_category">Category</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="add">add</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">Логин</string>
+</resources>
